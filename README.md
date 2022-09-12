@@ -1,21 +1,3 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate frontend developer from Monterrey,N.L,Mexico</h3>
-
-- 🔭 I’m currently working on **React.JS Web Applications**
-
-- 🌱 I’m currently learning **Web3 and DApps**
-
-- 👨‍💻 All of my projects are available at [https://github.com/alexgn0110](https://github.com/alexgn0110)
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **alex_guno0110@hotmaail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alejandro-gutierrez-novo-37060a9a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-gutierrez-novo-37060a9a" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate frontend developer from Monterrey,N.L,Mexico</h3>
