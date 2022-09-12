@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **alex_guno0110@hotmaail.com**
+- 📫 How to reach me **alex_guno0110@hotmail.com**
 
 - 📄 Know about my experiences [https://app.flowcv.com/resume-feedback/4wWAt8GLg111gB3E_CDcQ](https://app.flowcv.com/resume-feedback/4wWAt8GLg111gB3E_CDcQ)
 
