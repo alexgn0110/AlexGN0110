@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alex_guno0110@hotmail.com**
 
-- 📄 Know about my experiences [https://alexgn0110.github.io/WebPortafolioAGN/)
+- 📄 Know about my experiences (https://alexgn0110.github.io/WebPortafolioAGN/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
