@@ -1,22 +1,48 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate frontend developer from Monterrey,N.L,Mexico</h3>
+## Hi, I'm Alejandro 👋
 
-- 🔭 I’m currently working on **React.JS Web Applications**
+**Senior Frontend Engineer** · React · TypeScript · Redux · Jest<br>
+Monterrey, Mexico (UTC-6) · Open to remote and hybrid roles
 
-- 🌱 I’m currently learning **Web3 and DApps**
+I build fast, accessible and well-tested web applications. 7+ years shipping production interfaces for enterprise clients at **Tata Consultancy Services** and for **Wiser Solutions**, a US-based SaaS company.
 
-- 👨‍💻 All of my projects are available at [https://github.com/alexgn0110](https://github.com/alexgn0110)
+- **Now:** Frontend Developer at Tata Consultancy Services, rebuilding legacy systems as modern React + TypeScript applications for US-based clients.
+- **Quality:** 80–90% unit test coverage with Jest and React Testing Library; predictable state with Redux and Redux-Saga.
+- **Workflow:** GitHub Copilot and AI assistants every day, with every generated line reviewed.
 
-- 💬 Ask me about **React**
+[![Portfolio](https://img.shields.io/badge/Portfolio-alexgn0110.github.io-7aa2ff?style=flat-square&logo=githubpages&logoColor=white)](https://alexgn0110.github.io/WebPortafolioAGN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alexgtznovo-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexgtznovo/)
+[![Email](https://img.shields.io/badge/Email-alex__guno0110%40hotmail.com-555?style=flat-square&logo=maildotru&logoColor=white)](mailto:alex_guno0110@hotmail.com)
+[![CV](https://img.shields.io/badge/CV-Download%20PDF-2f5bd3?style=flat-square&logo=readdotcv&logoColor=white)](https://alexgn0110.github.io/WebPortafolioAGN/Alejandro-Gutierrez-Novo-Resume.pdf)
 
-- 📫 How to reach me **alex_guno0110@hotmail.com**
+### Tech stack
 
-- 📄 Know about my experiences https://alexgn0110.github.io/WebPortafolioAGN/
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alejandro-gutierrez-novo-37060a9a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-gutierrez-novo-37060a9a" height="30" width="40" /></a>
-</p>
+### Featured project
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </a> </p>
+**[Personal portfolio](https://github.com/alexgn0110/WebPortafolioAGN)** — React 19, strict TypeScript and Vite, tested with Vitest and React Testing Library, checked by GitHub Actions on every push. Includes a ⌘K command palette, accessible navigation and a no-flash light/dark theme. [Live site →](https://alexgn0110.github.io/WebPortafolioAGN/)
+
+### Experience
+
+| Period | Role | Company |
+| --- | --- | --- |
+| 2023 – present | Frontend Developer | Tata Consultancy Services |
+| 2020 – 2023 | Frontend Developer | Wiser Solutions (US-based SaaS) |
+| 2019 – 2020 | React Developer Jr. | CTE Consultores |
+| 2019 | Frontend Developer Intern | Accenture |
+
+Most of my professional work lives in private client repositories. Feel free to reach out if you'd like to talk about it.
